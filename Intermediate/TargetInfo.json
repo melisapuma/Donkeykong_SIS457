@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Donkeykong_SIS457",
+			"Path": "C:\\Users\\ASUS\\Documents\\Unreal Projects\\Donkeykong_SIS457\\Source\\Donkeykong_SIS457.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Donkeykong_SIS457Editor",
+			"Path": "C:\\Users\\ASUS\\Documents\\Unreal Projects\\Donkeykong_SIS457\\Source\\Donkeykong_SIS457Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
